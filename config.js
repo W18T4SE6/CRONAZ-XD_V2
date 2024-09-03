@@ -20,13 +20,13 @@ for (let i = 0; i < ownerlist.length; i += 2) {
     ];
     global.owner.push(owner);
 }
-//global.owner = [['918138898059', '𝐖𝐇𝐈𝐓𝐄-𝙎𝞢𝞒🗡️', true], ['', 'OWNER2', true], ['']] //Number of owners
+//global.owner = [['916238768108', '𝐖𝐇𝐈𝐓𝐄-𝙎𝞢𝞒🗡️', true], ['', 'OWNER2', true], ['']] //Number of owners
 
 //global.pairingNumber = "" //put your bot number here
 
-global.mods = ['918138898059', '']
-global.prems = ['918138898059', '']
-global.allowed = ['918138898059', '']
+global.mods = ['916238768108', '']
+global.prems = ['916238768108', '']
+global.allowed = ['916238768108', '']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = [
