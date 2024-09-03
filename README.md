@@ -1,7 +1,7 @@
-# KEIKO-V5
+# 𝐂𝐑𝐎𝐍𝐀𝐙-𝐗𝐃 𝐕2
 </br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=bold&size=55&pause=1000&color=red&center=true&width=910&height=100&lines=I'M+KEIKO-V5;MULTI+FUNCTIONAL;WHATSAPP+BOT;MADE+WITH+LOVE🦋;CODED+BY+WHITE-XNT" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=bold&size=55&pause=1000&color=red&center=true&width=910&height=100&lines=I'M+CRONAZ-XD-V2;MULTI+FUNCTIONAL;WHATSAPP+BOT;MADE+WITH+LOVE🦋;CODED+BY+WHITE-XNT" alt="Typing SVG" /></a>
   
 <p align="center">  
   <a href="https://wa.me/+918138898059?text=HEY+VRO+BIG+FAN+VRO😝">
@@ -72,11 +72,11 @@
   
 #### For Help To Visit Here
 
-<a href='https://instagram.com/kl_white_ser' target="_blank"><img alt='AMEEN-SER' src='https://img.shields.io/badge/-AMEEN_INT-white?style=for-the-badge&logo=instagram&logoColor=pink'/></a>
+<a href='https://instagram.com/kl_white_ser' target="_blank"><img alt='AMEEN-SER' src='https://img.shields.io/badge/-WHITE_INT-white?style=for-the-badge&logo=instagram&logoColor=pink'/></a>
 <br>
 
-<a href='https://wa.me/918138898059?text=Hey🌠!+Want+Help' target="_blank"><img alt='AMEEN-SER' src='https://img.shields.io/badge/-WHITE_INT-white?style=for-the-badge&logo=whatsapp&logoColor=green'/></a>
+<a href='https://wa.me/918138898059?text=Hey🌠!+Want+Help' target="_blank"><img alt='WHITE-SER' src='https://img.shields.io/badge/-WHITE_INT-white?style=for-the-badge&logo=whatsapp&logoColor=green'/></a>
 <br>
 
-<a href='https://github.com/W18T4SE6' target="_blank"><img alt='AMEEN-SER' src='https://img.shields.io/badge/-AMEEN_INT-white?style=for-the-badge&logo=github&logoColor=black'/></a>
+<a href='https://github.com/W18T4SE6' target="_blank"><img alt='WHITE-SER' src='https://img.shields.io/badge/-WHITE_INT-white?style=for-the-badge&logo=github&logoColor=black'/></a>
 <br>
